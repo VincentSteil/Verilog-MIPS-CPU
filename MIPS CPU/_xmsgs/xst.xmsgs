@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="error" file="ProjectRepository" num="0" delta="unknown" >Unable to create temporary directory &lt;<arg fmt="%s" index="1">\\austin.utexas.edu\disk\engrstu\ece\vjs432\Desktop\7ASynth\7aSynth\MIPS_CPU_xdb/tmp/ise</arg>&gt; for storing project file contents
+</msg>
+
+<msg type="error" file="Xst" num="2634" delta="unknown" >&quot;<arg fmt="%s" index="1">MIPS_CPU.v</arg>&quot; line <arg fmt="%d" index="2">828</arg>: For loop stop condition should depend on loop variable or be static.
+</msg>
+
+</messages>
+

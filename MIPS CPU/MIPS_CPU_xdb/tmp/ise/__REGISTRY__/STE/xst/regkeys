@@ -1,0 +1,6 @@
+CommandLine
+C:\Xilinx\10.1\ISE\bin\nt\unwrapped\xst.exe -ise Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise -intstyle ise -ifn Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.xst -ofn Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.syr -finalclean 1
+s
+FormatString
+xst [-ifn <InputFile>] [-ofn <OutputFile>] [-ise <iseProjectFile>] [--quiet] [-intstyle <Style>] [--deb <DebugLevel>] [--finalclean <Clean>] [--PcubeFlow] [--globOptFlow] [--XstNtrc]
+s

@@ -1,0 +1,8 @@
+verilog work "seven_seg_converter.v"
+verilog work "niceDivider.v"
+verilog work "bcdToSevenSeg.v"
+verilog work "REG.v"
+verilog work "MIPS_CPU.v"
+verilog work "Memory.v"
+verilog work "Debouncer.v"
+verilog work "MIPS.v"

@@ -1,0 +1,112 @@
+xst -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -intstyle ise -ifn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.xst" -ofn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.syr"
+xst -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -intstyle ise -ifn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.xst" -ofn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.syr"
+xst -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -intstyle ise -ifn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.xst" -ofn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.syr"
+xst -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -intstyle ise -ifn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.xst" -ofn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.syr"
+xst -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -intstyle ise -ifn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.xst" -ofn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.syr"
+xst -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -intstyle ise -ifn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.xst" -ofn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.syr"
+xst -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -intstyle ise -ifn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.xst" -ofn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.syr"
+xst -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -intstyle ise -ifn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.xst" -ofn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.syr"
+xst -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -intstyle ise -ifn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.xst" -ofn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.syr"
+xst -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -intstyle ise -ifn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.xst" -ofn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.syr"
+xst -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -intstyle ise -ifn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.xst" -ofn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.syr"
+xst -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -intstyle ise -ifn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.xst" -ofn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.syr"
+xst -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -intstyle ise -ifn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.xst" -ofn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.syr"
+xst -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -intstyle ise -ifn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.xst" -ofn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.syr"
+xst -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -intstyle ise -ifn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.xst" -ofn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.syr"
+xst -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -intstyle ise -ifn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.xst" -ofn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.syr"
+xst -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -intstyle ise -ifn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.xst" -ofn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.syr"
+ngdbuild -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -intstyle ise -dd _ngo  -nt timestamp -i -p xc3s500e-fg320-5 "Complete_MIPS.ngc" Complete_MIPS.ngd
+xst -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -intstyle ise -ifn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.xst" -ofn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.syr"
+ngdbuild -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -intstyle ise -dd _ngo  -nt timestamp -i -p xc3s500e-fg320-5 "Complete_MIPS.ngc" Complete_MIPS.ngd
+xst -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -intstyle ise -ifn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.xst" -ofn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.syr"
+ngdbuild -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -intstyle ise -dd _ngo  -nt timestamp -i -p xc3s500e-fg320-5 "Complete_MIPS.ngc" Complete_MIPS.ngd
+ngdbuild -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -intstyle ise -dd _ngo  -nt timestamp -i -p xc3s500e-fg320-5 "Complete_MIPS.ngc" Complete_MIPS.ngd
+map -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -intstyle ise -p xc3s500e-fg320-5 -cm area -pr off -k 4 -c 100 -o Complete_MIPS_map.ncd Complete_MIPS.ngd Complete_MIPS.pcf
+par -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -w -intstyle ise -ol std -t 1 Complete_MIPS_map.ncd Complete_MIPS.ncd Complete_MIPS.pcf
+trce -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -intstyle ise -v 3 -s 5 -xml Complete_MIPS Complete_MIPS.ncd -o Complete_MIPS.twr Complete_MIPS.pcf -ucf Complete_MIPS.ucf
+bitgen -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -intstyle ise -f Complete_MIPS.ut Complete_MIPS.ncd
+xst -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -intstyle ise -ifn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.xst" -ofn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.syr"
+ngdbuild -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -intstyle ise -dd _ngo  -nt timestamp -i -p xc3s500e-fg320-5 "Complete_MIPS.ngc" Complete_MIPS.ngd
+map -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -intstyle ise -p xc3s500e-fg320-5 -cm area -pr off -k 4 -c 100 -o Complete_MIPS_map.ncd Complete_MIPS.ngd Complete_MIPS.pcf
+par -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -w -intstyle ise -ol std -t 1 Complete_MIPS_map.ncd Complete_MIPS.ncd Complete_MIPS.pcf
+trce -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -intstyle ise -v 3 -s 5 -xml Complete_MIPS Complete_MIPS.ncd -o Complete_MIPS.twr Complete_MIPS.pcf -ucf Complete_MIPS.ucf
+bitgen -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -intstyle ise -f Complete_MIPS.ut Complete_MIPS.ncd
+xst -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -intstyle ise -ifn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.xst" -ofn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.syr"
+ngdbuild -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -intstyle ise -dd _ngo  -nt timestamp -i -p xc3s500e-fg320-5 "Complete_MIPS.ngc" Complete_MIPS.ngd
+map -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -intstyle ise -p xc3s500e-fg320-5 -cm area -pr off -k 4 -c 100 -o Complete_MIPS_map.ncd Complete_MIPS.ngd Complete_MIPS.pcf
+par -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -w -intstyle ise -ol std -t 1 Complete_MIPS_map.ncd Complete_MIPS.ncd Complete_MIPS.pcf
+trce -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -intstyle ise -v 3 -s 5 -xml Complete_MIPS Complete_MIPS.ncd -o Complete_MIPS.twr Complete_MIPS.pcf -ucf Complete_MIPS.ucf
+bitgen -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -intstyle ise -f Complete_MIPS.ut Complete_MIPS.ncd
+ngdbuild -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -intstyle ise -dd _ngo  -nt timestamp -i -p xc3s500e-fg320-5 "Complete_MIPS.ngc" Complete_MIPS.ngd
+map -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -intstyle ise -p xc3s500e-fg320-5 -cm area -pr off -k 4 -c 100 -o Complete_MIPS_map.ncd Complete_MIPS.ngd Complete_MIPS.pcf
+par -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -w -intstyle ise -ol std -t 1 Complete_MIPS_map.ncd Complete_MIPS.ncd Complete_MIPS.pcf
+trce -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -intstyle ise -v 3 -s 5 -xml Complete_MIPS Complete_MIPS.ncd -o Complete_MIPS.twr Complete_MIPS.pcf -ucf Complete_MIPS.ucf
+bitgen -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -intstyle ise -f Complete_MIPS.ut Complete_MIPS.ncd
+xst -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -intstyle ise -ifn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.xst" -ofn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.syr"
+xst -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -intstyle ise -ifn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.xst" -ofn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.syr"
+ngdbuild -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -intstyle ise -dd _ngo  -nt timestamp -i -p xc3s500e-fg320-5 "Complete_MIPS.ngc" Complete_MIPS.ngd
+map -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -intstyle ise -p xc3s500e-fg320-5 -cm area -pr off -k 4 -c 100 -o Complete_MIPS_map.ncd Complete_MIPS.ngd Complete_MIPS.pcf
+par -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -w -intstyle ise -ol std -t 1 Complete_MIPS_map.ncd Complete_MIPS.ncd Complete_MIPS.pcf
+trce -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -intstyle ise -v 3 -s 5 -xml Complete_MIPS Complete_MIPS.ncd -o Complete_MIPS.twr Complete_MIPS.pcf -ucf Complete_MIPS.ucf
+bitgen -ise "Z:/Desktop/7ASynth/7aSynth/7aSynth.ise" -intstyle ise -f Complete_MIPS.ut Complete_MIPS.ncd
+xst -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -ifn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.xst" -ofn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.syr"
+xst -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -ifn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.xst" -ofn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.syr"
+xst -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -ifn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.xst" -ofn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.syr"
+xst -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -ifn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.xst" -ofn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.syr"
+xst -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -ifn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.xst" -ofn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.syr"
+xst -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -ifn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.xst" -ofn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.syr"
+xst -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -ifn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.xst" -ofn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.syr"
+xst -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -ifn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.xst" -ofn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.syr"
+xst -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -ifn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.xst" -ofn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.syr"
+xst -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -ifn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.xst" -ofn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.syr"
+xst -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -ifn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.xst" -ofn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.syr"
+xst -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -ifn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.xst" -ofn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.syr"
+xst -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -ifn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.xst" -ofn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.syr"
+xst -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -ifn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.xst" -ofn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.syr"
+xst -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -ifn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.xst" -ofn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.syr"
+ngdbuild -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -dd _ngo  -nt timestamp -i -p xc3s500e-fg320-5 "Complete_MIPS.ngc" Complete_MIPS.ngd
+ngdbuild -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -dd _ngo  -nt timestamp -i -p xc3s500e-fg320-5 "Complete_MIPS.ngc" Complete_MIPS.ngd
+map -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -p xc3s500e-fg320-5 -cm area -pr off -k 4 -c 100 -o Complete_MIPS_map.ncd Complete_MIPS.ngd Complete_MIPS.pcf
+par -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -w -intstyle ise -ol std -t 1 Complete_MIPS_map.ncd Complete_MIPS.ncd Complete_MIPS.pcf
+trce -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -v 3 -s 5 -xml Complete_MIPS Complete_MIPS.ncd -o Complete_MIPS.twr Complete_MIPS.pcf -ucf pins.ucf
+bitgen -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -f Complete_MIPS.ut Complete_MIPS.ncd
+bitgen -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -f Complete_MIPS.ut Complete_MIPS.ncd
+xst -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -ifn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.xst" -ofn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.syr"
+ngdbuild -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -dd _ngo  -nt timestamp -i -p xc3s500e-fg320-5 "Complete_MIPS.ngc" Complete_MIPS.ngd
+map -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -p xc3s500e-fg320-5 -cm area -pr off -k 4 -c 100 -o Complete_MIPS_map.ncd Complete_MIPS.ngd Complete_MIPS.pcf
+par -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -w -intstyle ise -ol std -t 1 Complete_MIPS_map.ncd Complete_MIPS.ncd Complete_MIPS.pcf
+trce -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -v 3 -s 5 -xml Complete_MIPS Complete_MIPS.ncd -o Complete_MIPS.twr Complete_MIPS.pcf -ucf pins.ucf
+bitgen -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -f Complete_MIPS.ut Complete_MIPS.ncd
+xst -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -ifn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.xst" -ofn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.syr"
+ngdbuild -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -dd _ngo  -nt timestamp -i -p xc3s500e-fg320-5 "Complete_MIPS.ngc" Complete_MIPS.ngd
+map -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -p xc3s500e-fg320-5 -cm area -pr off -k 4 -c 100 -o Complete_MIPS_map.ncd Complete_MIPS.ngd Complete_MIPS.pcf
+par -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -w -intstyle ise -ol std -t 1 Complete_MIPS_map.ncd Complete_MIPS.ncd Complete_MIPS.pcf
+trce -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -v 3 -s 5 -xml Complete_MIPS Complete_MIPS.ncd -o Complete_MIPS.twr Complete_MIPS.pcf -ucf pins.ucf
+bitgen -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -f Complete_MIPS.ut Complete_MIPS.ncd
+xst -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -ifn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.xst" -ofn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.syr"
+ngdbuild -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -dd _ngo  -nt timestamp -i -p xc3s500e-fg320-5 "Complete_MIPS.ngc" Complete_MIPS.ngd
+map -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -p xc3s500e-fg320-5 -cm area -pr off -k 4 -c 100 -o Complete_MIPS_map.ncd Complete_MIPS.ngd Complete_MIPS.pcf
+par -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -w -intstyle ise -ol std -t 1 Complete_MIPS_map.ncd Complete_MIPS.ncd Complete_MIPS.pcf
+trce -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -v 3 -s 5 -xml Complete_MIPS Complete_MIPS.ncd -o Complete_MIPS.twr Complete_MIPS.pcf -ucf pins.ucf
+bitgen -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -f Complete_MIPS.ut Complete_MIPS.ncd
+xst -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -ifn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.xst" -ofn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.syr"
+xst -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -ifn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.xst" -ofn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.syr"
+ngdbuild -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -dd _ngo  -nt timestamp -i -p xc3s500e-fg320-5 "Complete_MIPS.ngc" Complete_MIPS.ngd
+map -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -p xc3s500e-fg320-5 -cm area -pr off -k 4 -c 100 -o Complete_MIPS_map.ncd Complete_MIPS.ngd Complete_MIPS.pcf
+par -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -w -intstyle ise -ol std -t 1 Complete_MIPS_map.ncd Complete_MIPS.ncd Complete_MIPS.pcf
+trce -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -v 3 -s 5 -xml Complete_MIPS Complete_MIPS.ncd -o Complete_MIPS.twr Complete_MIPS.pcf -ucf pins.ucf
+bitgen -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -f Complete_MIPS.ut Complete_MIPS.ncd
+xst -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -ifn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.xst" -ofn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.syr"
+ngdbuild -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -dd _ngo  -nt timestamp -i -p xc3s500e-fg320-5 "Complete_MIPS.ngc" Complete_MIPS.ngd
+map -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -p xc3s500e-fg320-5 -cm area -pr off -k 4 -c 100 -o Complete_MIPS_map.ncd Complete_MIPS.ngd Complete_MIPS.pcf
+par -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -w -intstyle ise -ol std -t 1 Complete_MIPS_map.ncd Complete_MIPS.ncd Complete_MIPS.pcf
+trce -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -v 3 -s 5 -xml Complete_MIPS Complete_MIPS.ncd -o Complete_MIPS.twr Complete_MIPS.pcf -ucf pins.ucf
+xst -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -ifn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.xst" -ofn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.syr"
+bitgen -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -f Complete_MIPS.ut Complete_MIPS.ncd
+xst -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -ifn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.xst" -ofn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.syr"
+xst -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -ifn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.xst" -ofn "Z:/Desktop/7ASynth/7aSynth/Complete_MIPS.syr"
+ngdbuild -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -dd _ngo  -nt timestamp -i -p xc3s500e-fg320-5 "Complete_MIPS.ngc" Complete_MIPS.ngd
+map -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -p xc3s500e-fg320-5 -cm area -pr off -k 4 -c 100 -o Complete_MIPS_map.ncd Complete_MIPS.ngd Complete_MIPS.pcf
+par -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -w -intstyle ise -ol std -t 1 Complete_MIPS_map.ncd Complete_MIPS.ncd Complete_MIPS.pcf
+trce -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -v 3 -s 5 -xml Complete_MIPS Complete_MIPS.ncd -o Complete_MIPS.twr Complete_MIPS.pcf -ucf pins.ucf
+bitgen -ise "Z:/Desktop/7ASynth/7aSynth/MIPS_CPU.ise" -intstyle ise -f Complete_MIPS.ut Complete_MIPS.ncd

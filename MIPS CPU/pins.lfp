@@ -1,0 +1,18 @@
+# begin LFP file Z:\Desktop\7ASynth\7aSynth\pins.lfp
+designfile Complete_MIPS.ngd
+IO_GROUP "SW" IO_GROUP="Complete_MIPS" ;
+IO_GROUP "Seven_Seg" IO_GROUP="Complete_MIPS" ;
+IO_GROUP "BTN2" IO_GROUP="Complete_MIPS" ;
+INST "Complete_MIPS" COLOR=15  ;
+NET "SW<2>" IO_GROUP="SW"  ;
+NET "SW<1>" IO_GROUP="SW"  ;
+NET "SW<0>" IO_GROUP="SW"  ;
+NET "Seven_Seg<6>" IO_GROUP="Seven_Seg"  ;
+NET "Seven_Seg<5>" IO_GROUP="Seven_Seg"  ;
+NET "Seven_Seg<4>" IO_GROUP="Seven_Seg"  ;
+NET "Seven_Seg<3>" IO_GROUP="Seven_Seg"  ;
+NET "Seven_Seg<2>" IO_GROUP="Seven_Seg"  ;
+NET "Seven_Seg<1>" IO_GROUP="Seven_Seg"  ;
+NET "Seven_Seg<0>" IO_GROUP="Seven_Seg"  ;
+NET "BTN2<1>" IO_GROUP="BTN2"  ;
+NET "BTN2<0>" IO_GROUP="BTN2"  ;

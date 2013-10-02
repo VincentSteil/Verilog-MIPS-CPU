@@ -1,0 +1,25 @@
+//! **************************************************************************
+// Written by: Map K.39 on Fri May 03 18:44:06 2013
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "CLK" LOCATE = SITE "B8" LEVEL 1;
+COMP "dOneEn1" LOCATE = SITE "F15" LEVEL 1;
+COMP "dTwoEn1" LOCATE = SITE "C18" LEVEL 1;
+COMP "SW<0>" LOCATE = SITE "G18" LEVEL 1;
+COMP "SW<1>" LOCATE = SITE "H18" LEVEL 1;
+COMP "SW<2>" LOCATE = SITE "K18" LEVEL 1;
+COMP "dFourEn1" LOCATE = SITE "F17" LEVEL 1;
+COMP "Seven_Seg<0>" LOCATE = SITE "L18" LEVEL 1;
+COMP "Seven_Seg<1>" LOCATE = SITE "F18" LEVEL 1;
+COMP "Seven_Seg<2>" LOCATE = SITE "D17" LEVEL 1;
+COMP "Seven_Seg<3>" LOCATE = SITE "D16" LEVEL 1;
+COMP "Seven_Seg<4>" LOCATE = SITE "G14" LEVEL 1;
+COMP "Seven_Seg<5>" LOCATE = SITE "J17" LEVEL 1;
+COMP "Seven_Seg<6>" LOCATE = SITE "H14" LEVEL 1;
+COMP "BTN2<0>" LOCATE = SITE "B18" LEVEL 1;
+COMP "BTN2<1>" LOCATE = SITE "D18" LEVEL 1;
+COMP "dThreeEn1" LOCATE = SITE "H17" LEVEL 1;
+NET "CLK_BUFGP/IBUFG" BEL "CLK_BUFGP/BUFG.GCLKMUX" USELOCALCONNECT;
+SCHEMATIC END;
+
