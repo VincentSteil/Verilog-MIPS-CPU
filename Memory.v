@@ -17,7 +17,7 @@ end
 
 assign Mem_Bus = ((CS == 1'b0) || (WE == 1'b1)) ? 32'bZ : data_out;
 
-always @(negedge CLK)
+always @(posedge CLK)
 begin
 if((CS == 1'b1) && (WE == 1'b1))
   RAM[ADDR] <= Mem_Bus[31:0];
